@@ -1,5 +1,8 @@
 _repo: Following-the-Sun-Flag-A-Vain-Pursuit-Through-Manchuria_56218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56218-h/images/cover.jpg
 creator:
   author:
     agent_name: Fox, John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/179
     wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56218#Following-the-Sun-Flag-A-Vain-Pursuit-Through-Manchuria
 gutenberg_issued: '2017-12-21'
 gutenberg_type: Text
 identifiers:
